@@ -5,7 +5,7 @@
   
   ### Empowering Enterprise Communication
   
-  [![Website](https://img.shields.io/badge/Website-zentrilink.com-blue)](https://zentrilink.me)
+  [![Website](https://img.shields.io/badge/Website-zentrilink.me-blue)](https://zentrilink.me)
 </div>
 
 ## 🚀 About Us
