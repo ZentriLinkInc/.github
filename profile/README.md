@@ -58,10 +58,10 @@ Visit our [careers page](https://zentrilink.com/careers) to learn more about opp
 
 ## 📫 Contact Us
 
-- **Website**: [zentrilink.com](https://zentrilink.com)
-- **Email**: contact@zentrilink.com
-- **Support**: support@zentrilink.com
-- **Security**: security@zentrilink.com
+- **Website**: [zentrilink.com](https://zentrilink.me)
+- **Email**: contact@zentrilink.me
+- **Support**: support@zentrilink.me
+- **Security**: security@zentrilink.me
 
 ---
 
