@@ -54,11 +54,11 @@ We're always looking for talented individuals who are passionate about:
 - User Experience
 - Data Security
 
-Visit our [careers page](https://zentrilink.com/careers) to learn more about opportunities at ZentriLink.
+Visit our [careers page](https://zentrilink.me/careers) to learn more about opportunities at ZentriLink.
 
 ## 📫 Contact Us
 
-- **Website**: [zentrilink.com](https://zentrilink.me)
+- **Website**: [zentrilink.me](https://zentrilink.me)
 - **Email**: contact@zentrilink.me
 - **Support**: support@zentrilink.me
 - **Security**: security@zentrilink.me
