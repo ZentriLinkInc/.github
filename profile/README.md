@@ -42,7 +42,7 @@ Our flagship enterprise communication platform that provides:
 
 We believe in the power of open source and actively contribute to the developer community. Check out our projects:
 
-- [Project Kyber](https://github.com/ZentriLinkInc/kyber) - Enterprise Communication Platform **(private)**
+- [Project Kyber](https://github.com/ZentriLinkInc/kyber) - Enterprise Communication Platform 
 - [Documentation](https://github.com/ZentriLinkInc/docs) - Comprehensive guides and API documentation
 
 ## 🤝 Join Our Team
